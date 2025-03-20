@@ -320,7 +320,7 @@ class MudiExperiencePDP {
         /** Response Mudi-Server*/
         this.dataServer;
 
-        this.colorClient = "#2889e9";
+        this.colorClient = "#d32a34";
     };
 
     /** Conect mudiServer  ✔️ */
